@@ -1,3 +1,3 @@
 # chronos
 
-Aprendo a usar o GitHub
+Aprendendo a usar o GitHub
